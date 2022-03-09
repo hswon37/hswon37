@@ -5,16 +5,18 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 GOALS 
+<div><h1>🔭 GOALS </h1></div>
 <div>
-  Web Developer
-  <br>
-  Database Administrator
-  <br>
-  Data Scientist
+  <p>
+    - Web Developer
+    <br>
+    - Database Administrator
+    <br>
+    - Data Scientist
+  </p>
 </div>
 
-- 📚 Stacks
+<div><h1>📚 Stacks</h1></div>
 <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/rstudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white">
@@ -37,19 +39,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apache%20tomcat&logoColor=white">
 </div>
 
-- 🌱 Learning
+<div><h1>🌱 Learning</h1></div>
 <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 </div>
-
-- 😄 Pronouns
+  
+<div><h1>😄 Pronouns</h1></div>
 <div>
-  Follow my heart!
+  <p>Follow my heart!</p>
 </div>
 
-- 📫 Reach
+<div><h1>📫 Reach</h1></div>
 <div>
   <a href = "https://moongsilismine.tistory.com/"> 
     <img src="https://img.shields.io/badge/Tistory-white?style=for-the-badge&logo=Tistory&logoColor=black">

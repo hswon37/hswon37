@@ -5,6 +5,15 @@
 
 Here are some ideas to get you started:
 -->
+<div><h1>✨ Major </h1></div>
+<div>
+  <p>
+    - Information Statistics
+    <br>
+    - Computer Science
+  </p>
+</div>
+
 <div><h1>🔭 GOALS </h1></div>
 <div>
   <p>

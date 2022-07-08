@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <br>
     - Database Administrator
     <br>
-    - Data Scientist
+    - Data Engineer/Scientist
   </p>
 </div>
 
